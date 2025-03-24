@@ -1,0 +1,23 @@
+{
+  "name": "wharton-hackathon",
+  "version": "1.0.0",
+  "description": "All course files for the OpenAI Basics Tutorial on the Net Ninja YouTube channel and on NetNinja.dev",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIN-S/Wharton-hackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIN-S/Wharton-hackathon/issues"
+  },
+  "homepage": "https://github.com/VIN-S/Wharton-hackathon#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.89.0"
+  }
+}
